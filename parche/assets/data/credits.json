@@ -1,0 +1,3503 @@
+[
+    {
+        "fileName": "retro",
+        "bgColor": "0xFF0F3556",
+        "backdropColor": "0xFF078997",
+        "name": "RetroSpecter",
+        "role": "Mod Creator, Director, Musician, Writer, Voice Actor, Playtester",
+        "description": "Creo Vs. RetroSpecter y el universo Infernadise. Compuso la musica para P1-1.75 y ayudo a Kamex con parte de la musica de la segunda parte. Escribio toda la historia, los dialogos, los archivos y las notas de la galeria. Dirigio al equipo en lo que debia hacer y presto su voz a Retro/Metro.",
+        "iconBG": "0xFF085F73",
+        "links": [
+            {
+                "url": "https://twitter.com/RetroSpecter_",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/artist/1fAgYNgiRy5ZUInCWFtRi9",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.twitch.tv/retro_specter",
+                "image": "twitch"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UC8H0nNZJfP4zYpuvdl_4AeA",
+                "image": "youtube"
+            }
+        ],
+        "part": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "kamex",
+        "bgColor": "0xFF405891",
+        "backdropColor": "0xFF8994E0",
+        "name": "Kamex",
+        "role": "Musician, Sound FX, Voice Actor, Playtester",
+        "description": "Compuso la mayor parte de la musica y los efectos de sonido de la Parte 2, asi como la cromatica de la mayoria de los personajes. Propietario/actor de voz de Ace, Iceolation y Mace.",
+        "iconBG": "0xFF172547",
+        "scaleBig": 0.88,
+        "scaleSmall": 0.88,
+        "links": [
+            {
+                "url": "https://www.youtube.com/channel/UCUem8ytyhczNMEsuHTv2M5A",
+                "image": "youtube"
+            },
+            {
+                "url": "https://x.com/KamexVGM",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.twitch.tv/kamexvgm",
+                "image": "twitch"
+            }
+        ],
+        "part": [
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "bon",
+        "bgColor": "0xFF810B5E",
+        "backdropColor": "0xFFCF2699",
+        "name": "BonesTheSkelebunny",
+        "role": "Concept Artist",
+        "description": "Diseño la mayoria de las nuevas skins de novio/novia y los personajes IPU. Creo poses para la mayoria de los sprites de los personajes, cameos, retratos e iconos de la barra de salud. Tambien creo algunos de los logotipos, miniaturas, iconos de logros y la caratula del album.",
+        "iconBG": "0xFFA41E66",
+        "scaleSmall": 1.05,
+        "links": [
+            {
+                "url": "https://www.youtube.com/channel/UCgzHMweVY6JoXg3qwmunvnA",
+                "image": "youtube"
+            },
+            {
+                "url": "https://x.com/BSkelebunny01",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.tumblr.com/blog/bones-the-skelebunny-01",
+                "image": "tumblr"
+            },
+            {
+                "url": "https://sheezy.art/bonestheskelebunny01",
+                "image": "sheezy"
+            }
+        ],
+        "part": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "jade",
+        "bgColor": "0xFF761492",
+        "backdropColor": "0xFFC026CF",
+        "name": "AurumArt",
+        "role": "Concept/Sprite Artist, Animator, Playtester",
+        "description": "Limpio y animo la mayoria de los sprites de los personajes, las skins de las notas y los iconos de logros. Tambien creo algunos elementos del menu y la interfaz de usuario.",
+        "iconBG": "0xFF7C198C",
+        "scaleBig": 0.86,
+        "scaleSmall": 0.86,
+        "links": [
+            {
+                "url": "https://x.com/AurumArt_/media",
+                "image": "twitter"
+            },
+            {
+                "url": "https://aurumart.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "part": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "dax",
+        "bgColor": "0xFF2F46A9",
+        "backdropColor": "0xFF121C39",
+        "name": "Dax",
+        "role": "Concept/Background Artist",
+        "description": "Dibujo y edito multiples fondos de escenario y retratos de personajes. Diseño la mayoria de los nuevos atuendos de Girlfriend, creo los simbolos de todos los personajes, diseño los altavoces originales de Wrath y los animo en colaboracion con otro artista. Dibujo varios conceptos para algunos de los personajes.",
+        "iconBG": "0xFF0B2060",
+        "links": [
+            {
+                "url": "https://x.com/Daxite_",
+                "image": "twitter"
+            },
+            {
+                "url": "https://toyhou.se/Daxite",
+                "image": "toyhouse"
+            },
+            {
+                "url": "https://daxite.newgrounds.com/",
+                "image": "newgrounds"
+            },
+            {
+                "url": "https://daxite.tumblr.com/",
+                "image": "tumblr"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9,
+        "part": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "chubby",
+        "bgColor": "0xFF70311F",
+        "backdropColor": "0xFFB74F38",
+        "name": "Chubby",
+        "role": "Normal/Hard Difficulty Charter, Playtester",
+        "description": "Cree todas las tablas de dificultad normal y la mitad de las de dificultad dificil. Tambien ayude a aportar ideas para el menu principal y otras tareas de programacion menores.",
+        "iconBG": "0xFFB74F38",
+        "scaleBig": 0.9,
+        "scaleSmall": 0.9,
+        "links": [
+            {
+                "url": "https://x.com/Chubby",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCF-TxTDo-mKuFExx1CckNMQ",
+                "image": "youtube"
+            },
+            {
+                "url": "https://bsky.app/profile/chubg464.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "part": [
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "clip",
+        "bgColor": "0xFFF3C800",
+        "backdropColor": "0xFF987C00",
+        "name": "Lily-Clipee-Chan",
+        "role": "Hard/Hell Difficulty Charter",
+        "description": "Cree la mitad de los graficos de dificultad alta y todos los de dificultad infernal.",
+        "iconBG": "0xFFD1AF06",
+        "scaleBig": 0.9,
+        "scaleSmall": 0.9,
+        "links": [
+            {
+                "url": "https://x.com/lilyclipster?s=21&t=Pjq-3dqI6AJETLYMC_qiuw",
+                "image": "twitter"
+            }
+        ],
+        "part": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "mars",
+        "bgColor": "0xFFF3A800",
+        "backdropColor": "0xFF724503",
+        "name": "Ars Machina",
+        "role": "Programmer, Sprite Artist",
+        "description": "Programo todos los logros y el menu de Free Play, corrigio innumerables errores y pulio y perfecciono el mod hacia el final del desarrollo. Tambien modelo y animo un recurso 3D para el modo Historia.",
+        "iconBG": "0xFFA86B00",
+        "scaleBig": 0.9,
+        "scaleSmall": 0.9,
+        "links": [
+            {
+                "url": "https://x.com/Ars_Machina_",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCTtHj1-vLeAP5uGEo8BcAiA",
+                "image": "youtube"
+            },
+            {
+                "url": "https://www.twitch.tv/ars_machina_",
+                "image": "twitch"
+            },
+            {
+                "url": "https://github.com/Ars-Machina",
+                "image": "github"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "bunny",
+        "bgColor": "0xFF97072D",
+        "backdropColor": "0xFFC4212C",
+        "name": "Malicious Bunny",
+        "role": "Programmer, Artist",
+        "description": "Programe todo Vs. Retro P2 y corregi muchos errores. Tambien ayude a limpiar los recursos del menu/interfaz de usuario, como los logotipos de los personajes, y realice algunas ediciones de escenarios/retratos.",
+        "iconBG": "0xFF730922",
+        "scaleBig": 0.9,
+        "links": [
+            {
+                "url": "https://www.youtube.com/c/MaliciousBunny/videos",
+                "image": "youtube"
+            },
+            {
+                "url": "https://www.patreon.com/MaliciousBunny/",
+                "image": "patreon"
+            },
+            {
+                "url": "https://x.com/BunnyMalicious",
+                "image": "twitter"
+            },
+            {
+                "url": "http://discord.gg/JkccY77n4F",
+                "image": "discord"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "shadowmario",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF000000",
+        "name": "Shadow Mario",
+        "role": "Programmer, Artist, Animator",
+        "description": "Cree Psych Engine. Ayude con varias tareas importantes de programacion. Tambien hice pixel art para algunos sprites, cameos y retratos.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://www.youtube.com/channel/UCpWQtkY8Ps1uDsU_Py8WANw",
+                "image": "youtube"
+            },
+            {
+                "url": "https://twitter.com/Shadow_Mario_",
+                "image": "twitter"
+            },
+            {
+                "url": "https://github.com/ShadowMario",
+                "image": "github"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 0.9,
+        "part": [
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "terra",
+        "bgColor": "0xFF13A19E",
+        "backdropColor": "0xFF0C231C",
+        "name": "Terrawr_Bytes",
+        "role": "Concept/Sprite Artist, Animator, Playtester",
+        "description": "Cree el guion grafico de varias escenas cinematicas y anime varios eventos/transformaciones en medio de las canciones. Tambien anime todos los recursos de fondo del escenario y los iconos de la pantalla de carga en la esquina.",
+        "iconBG": "0xFF1B7772",
+        "links": [
+            {
+                "url": "https://bsky.app/profile/terrawrbytes.bsky.social",
+                "image": "bluesky"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCDkq5WbOfaab8FD0Inhv5vw",
+                "image": "youtube"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "wolf",
+        "bgColor": "0xFF3171C4",
+        "backdropColor": "0xFF122A61",
+        "name": "WolfWrathKnight",
+        "role": "Concept/Sprite Artist, Animator",
+        "description": "Limpie y anime los sprites finales de la fase Wrath, las escenas cinematicas y la mitad de los cameos del fondo del escenario. Cree algunos conceptos para algunos de los submenus. Cree algunos de los retratos de los personajes e hice skins de Fun Sized Ace/Retro (incluidas variantes de pixeles).",
+        "iconBG": "0xFF2244A3",
+        "scaleBig": 0.8,
+        "links": [
+            {
+                "url": "https://www.youtube.com/channel/UCIzpMBzCkS2DH72IwcruGzQ",
+                "image": "youtube"
+            },
+            {
+                "url": "https://wolf-wrathknight.tumblr.com/",
+                "image": "tumblr"
+            },
+            {
+                "url": "https://x.com/W0lfwrathknight",
+                "image": "twitter"
+            },
+            {
+                "url": "https://sheezy.art/wolfwrathknight",
+                "image": "sheezy"
+            }
+        ],
+        "part": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "chichi",
+        "bgColor": "0xFFEE95AA",
+        "backdropColor": "0xFFF0A8C5",
+        "name": "Shiba Chichi",
+        "role": "Concept/Sprite Artist, Animator",
+        "description": "Esboce, limpie y anime algunos de los sprites de los oponentes. Reanime la primera mitad de la transformacion de Zerktro para que encajara con sus sprites V2. Tambien cree las skins de los oponentes jugables.",
+        "iconBG": "0xFFFFB5C9",
+        "links": [
+            {
+                "url": "https://x.com/lolychichi",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.instagram.com/lolyxchichi/",
+                "image": "instagram"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 0.9,
+        "part": [
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "grassjeak",
+        "bgColor": "0xFFC51B3F",
+        "backdropColor": "0xFF0020AB",
+        "name": "Grassjeak",
+        "role": "Menu/Graphic Artist",
+        "description": "Cree todo el arte para el menu principal, la seleccion de personajes, las opciones y las pantallas de carga. Tambien ayude con algunos recursos artisticos menores del menu.",
+        "iconBG": "0xFFDE1857",
+        "links": [
+            {
+                "url": "https://x.com/grass__jeak",
+                "image": "twitter"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "elemenopii",
+        "bgColor": "0xFF830165",
+        "backdropColor": "0xFFED0882",
+        "name": "Elemenopii",
+        "role": "Background Artist",
+        "description": "Cree la mayor parte del arte de fondo de la etapa 2 y añadi algo de arte de fondo adicional a la etapa final de Wrath. Tambien cree recursos como las barras de salud personalizadas y ayude a limpiar algunos logotipos del menu.",
+        "iconBG": "0xFFA70183",
+        "scaleBig": 0.9,
+        "links": [
+            {
+                "url": "https://x.com/ElemenopiiTwitr",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.instagram.com/elemenopii_two",
+                "image": "instagram"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "ninfia",
+        "bgColor": "0xFF19ADB4",
+        "backdropColor": "0xFF051B1C",
+        "name": "Ninfia Camozzi",
+        "role": "Voice Actor",
+        "description": "Puse la voz a todos los personajes femeninos del mod (Sakuroma, Hivemine, Insatian, etc.).",
+        "iconBG": "0xFF4FCAD0",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@NinfiaVAOfficial/videos",
+                "image": "youtube"
+            },
+            {
+                "url": "https://x.com/Its_Ninfiaaa",
+                "image": "twitter"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "nathanva",
+        "bgColor": "0xFF3F63F7",
+        "backdropColor": "0xFFFFEC60",
+        "name": "Nathaniel Gordon",
+        "role": "Voice Actor",
+        "description": "Preste mi voz a la mayoria de los personajes masculinos del mod (Izzurius, Atrocean, Dozirc, etc.).",
+        "iconBG": "0xFF445CBD",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@agonylord52",
+                "image": "youtube"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "kevin",
+        "bgColor": "0xFFF56000",
+        "backdropColor": "0xFF932500",
+        "name": "KevBFNF",
+        "role": "Concept/Graphic Artist",
+        "description": "Cree conceptos para todas las placas con los nombres de los personajes. Tambien ayude a idear el concepto del menu principal, asi como la mayoria de las barras de salud personalizadas.",
+        "iconBG": "0xFFD83B00",
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9,
+        "links": [
+            {
+                "url": "https://x.com/kevbfnf",
+                "image": "twitter"
+            },
+            {
+                "url": "https://bsky.app/profile/kevinbfnf.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "part": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "arcy",
+        "bgColor": "0xFFF77900",
+        "backdropColor": "0xFFA23800",
+        "name": "AnAwkwardArcanine",
+        "role": "Programmer",
+        "description": "Programador principal que comenzo la Parte 1 y ayudo a programar la 1.5. Codifico las notas de peligro de la Fase 3 Retro y corrigio varios errores cerca del final del desarrollo de la Parte 2.",
+        "iconBG": "0xFFBC5606",
+        "links": [
+            {
+                "url": "https://x.com/awkwardarcy",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9,
+        "part": [
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "juno",
+        "bgColor": "0xFFA129C8",
+        "backdropColor": "0xFF591292",
+        "name": "Juno Songs",
+        "role": "Concept artist",
+        "description": "Cree conceptos de poses para algunos oponentes y skins jugables. Tambien ayude a terminar el guion grafico de la escena final de Wrath Week.",
+        "iconBG": "0xFF6A25AD",
+        "links": [
+            {
+                "url": "https://x.com/junosongsyt",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCmam9sOUvleO0HFkhq0KLJg",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "pyxl",
+        "bgColor": "0xFF1A0838",
+        "backdropColor": "0xFF3F1F6F",
+        "name": "PyxlBird",
+        "role": "Concept/Sprite Artist",
+        "description": "Creo y animo algunos de los skins jugables de tamaño reducido. Tambien creo los sprites originales del oponente Dozirc.",
+        "iconBG": "0xFF240E49",
+        "links": [
+            {
+                "url": "https://x.com/pyxlbird",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.85,
+        "scaleSmall": 0.85,
+        "part": [
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "tenzu",
+        "bgColor": "0xFF0013FD",
+        "backdropColor": "0xFF00086E",
+        "name": "Tenzalt",
+        "role": "Concept Artist, Animator, Original Composer",
+        "description": "Ayudo a diseñar la fase final de Wrath y a animar partes de sus sprites. Creo y animo algunos recursos de la Parte 1, como la skin Poison Note y los cristales flotantes del escenario de Wrath. Tambien fue el compositor original de algunas canciones extra.",
+        "iconBG": "0xFFF0005C",
+        "links": [
+            {
+                "url": "https://x.com/Tenzalt",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UC7KmfbdAPt2bYCcSNJnCm-g",
+                "image": "youtube"
+            },
+            {
+                "url": "https://open.spotify.com/artist/3ryCAnhalggnO3OLOXI80u",
+                "image": "spotify"
+            },
+            {
+                "url": "https://tenzalt.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "tired-panda",
+        "bgColor": "0xFFC43195",
+        "backdropColor": "0xFF360726",
+        "name": "TiredPinkPanda",
+        "role": "Sprite Artist",
+        "description": "Realice diversos diseños para 1.5/1.75, como el diseño del menu y las miniaturas de las canciones. Cree el diseño de las escenas cinematicas de ciertas historias secundarias. Tambien ayude a limpiar y animar algunos skins desbloqueables.",
+        "iconBG": "0xFFB01C7E",
+        "scaleBig": 0.9,
+        "links": [
+            {
+                "url": "https://x.com/tiredpinkpanda",
+                "image": "twitter"
+            },
+            {
+                "url": "https://tiredpinkpanda.tumblr.com/",
+                "image": "tumblr"
+            },
+            {
+                "url": "https://youtube.com/@tiredpinkpanda",
+                "image": "youtube"
+            },
+            {
+                "url": "https://bsky.app/profile/tiredpinkpanda.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "part": [
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "sugar",
+        "bgColor": "0xFF058557",
+        "backdropColor": "0xFF074D34",
+        "name": "Sugarratio",
+        "role": "Artist",
+        "description": "Ayudo con algunos retratos de dialogo e iconos de logros.",
+        "iconBG": "0xFF0AD38B",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@SugarRatio",
+                "image": "youtube"
+            },
+            {
+                "url": "https://www.instagram.com/sugar_ratio12/",
+                "image": "instagram"
+            },
+            {
+                "url": "https://bsky.app/profile/sugarratio.bsky.social",
+                "image": "bluesky"
+            },
+            {
+                "url": "https://x.com/SugarRatio",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "razur",
+        "bgColor": "0xFF10177F",
+        "backdropColor": "0xFF2BB5C7",
+        "name": "Razur",
+        "role": "Background Artist",
+        "description": "Cree todos los fondos de la semana de Wrath. Tambien hice el portal blanco en el cielo de la semana de Wrath.",
+        "iconBG": "0xFF0A1551",
+        "scaleBig": 0.9,
+        "scaleSmall": 1,
+        "links": [
+            {
+                "url": "https://x.com/Razur_Draws",
+                "image": "twitter"
+            },
+            {
+                "url": "https://razur-draws.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "part": [
+            true,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "moro",
+        "bgColor": "0xFF471F6F",
+        "backdropColor": "0xFF2C1049",
+        "name": "MORØ",
+        "role": "Animator",
+        "description": "Limpie y termine la primera escena de la fase 3 de RetroSpecter.",
+        "iconBG": "0xFF26073F",
+        "scaleBig": 0.8,
+        "scaleSmall": 0.85,
+        "links": [
+            {
+                "url": "https://twitter.com/moro_production",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCFAn3uATFn-3fJMztiH5Qzw",
+                "image": "youtube"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "neeo",
+        "bgColor": "0xFF171617",
+        "backdropColor": "0xFF774546",
+        "name": "Ne_Eo",
+        "role": "Programmer",
+        "description": "Traslade Vs. Retro de Kade Engine a Psych Engine. Añadi sombreadores/iluminacion a la mayoria de las etapas. Ayude con la codificacion del menu principal y proporcione una forma mas facil de exportar sprites.",
+        "iconBG": "0xFF682D2D",
+        "links": [
+            {
+                "url": "https://niirou.se/socials/ne_eo/twitter",
+                "image": "twitter"
+            },
+            {
+                "url": "https://github.com/NeeEoo",
+                "image": "github"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "ferzy",
+        "bgColor": "0xFF6262B7",
+        "backdropColor": "0xFF9292D5",
+        "name": "Ferzy",
+        "role": "Programmer, Modcharter",
+        "description": "Cree eventos musicales y modcharts para la mayor parte de la historia de la Parte 2. Tambien ayude con los desplazamientos de sprites, la correccion de errores, la compresion de activos y el mantenimiento general de Lua.",
+        "iconBG": "0xFF7878BA",
+        "links": [
+            {
+                "url": "https://x.com/_Ferzy",
+                "image": "twitter"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "gemz",
+        "bgColor": "0xFF49B4C1",
+        "backdropColor": "0xFF2C6578",
+        "name": "Zenokwei / ILuvGemz",
+        "role": "Programmer",
+        "description": "Ayude a programar la fase de Dozirc, asi como varios desplazamientos, sprites y pequeñas correcciones de errores.",
+        "iconBG": "0xFF44A2AF",
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9,
+        "links": [
+            {
+                "url": "https://x.com/gemz_luv",
+                "image": "twitter"
+            },
+            {
+                "url": "https://github.com/ILuvGemz",
+                "image": "github"
+            },
+            {
+                "url": "https://youtube.com/channel/UCP47lyEgX6z_7i1RD_nEEfg",
+                "image": "youtube"
+            },
+            {
+                "url": "https://bsky.app/profile/iluvgemzenokwei.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "part": [
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "d6",
+        "bgColor": "0xFF4F4F4F",
+        "backdropColor": "0xFF2B2B2B",
+        "name": "D6",
+        "role": "Concept/Sprite Artist",
+        "description": "Cree los sprites de la fase 2 de RetroSpecter. Ayude con los sprites de la fase 1 de RetroSpecter y algunos recursos artisticos de la parte 1, como el grafico «Continuara».",
+        "iconBG": "0xFF565656",
+        "links": [
+            {
+                "url": "https://x.com/DSiiiiiix",
+                "image": "twitter"
+            },
+            {
+                "url": "https://bsky.app/profile/dsiiiiiix.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1.2,
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "andrew",
+        "bgColor": "0xFF956924",
+        "backdropColor": "0xFFD2AC65",
+        "name": "AndrewMJArt",
+        "role": "Concept Artist, Animator",
+        "description": "Cree el guion grafico de las dos ultimas escenas cinematicas de la semana de la ira. Tambien ayude a animar las notas venenosas de Retro de la fase 2.",
+        "iconBG": "0xFFB8974F",
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9,
+        "links": [
+            {
+                "url": "https://www.instagram.com/andrewmjart/",
+                "image": "instagram"
+            },
+            {
+                "url": "https://x.com/AndrewMJArt",
+                "image": "twitter"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "kittensneeze",
+        "bgColor": "0xFFA9FF43",
+        "backdropColor": "0xFF3F1B6D",
+        "name": "KittenSneeze",
+        "role": "Concept Artist/Animator",
+        "description": "Cree el guion grafico de la escena de la Fase 3 y ayude con varios efectos de animacion, como el fuego de transformacion y el fuego de fondo de la Fase 2.",
+        "iconBG": "0xFF78E328",
+        "links": [
+            {
+                "url": "https://x.com/thekittensneeze",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@KittenSneeze/videos",
+                "image": "youtube"
+            },
+            {
+                "url": "https://www.instagram.com/kittensneeze/",
+                "image": "instagram"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "cordial",
+        "bgColor": "0xFF0A081F",
+        "backdropColor": "0xFF111B3D",
+        "name": "Cordialcrow",
+        "role": "Concept/Background Artist",
+        "description": "Realice el boceto del fondo del escenario de Pride.",
+        "iconBG": "0xFF2A3558",
+        "links": [
+            {
+                "url": "https://x.com/cordiaicrow",
+                "image": "twitter"
+            },
+            {
+                "url": "https://bsky.app/profile/cordiaicrow.bsky.social",
+                "image": "bluesky"
+            }
+        ]
+    },
+    {
+        "fileName": "ravi",
+        "bgColor": "0xFFD20E4F",
+        "backdropColor": "0xFFEE3A67",
+        "name": "RavioliBox",
+        "role": "Concept Artist",
+        "description": "Realice algunos bocetos conceptuales de poses para Retro V1 y la Fase 2 de Retro.",
+        "iconBG": "0xFFD62157",
+        "links": [
+            {
+                "url": "https://x.com/raviolibox",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCkGXpFxIPJokJgccwupFD5g",
+                "image": "youtube"
+            },
+            {
+                "url": "https://www.instagram.com/raviolibox/",
+                "image": "instagram"
+            },
+            {
+                "url": "https://raviolibox.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9,
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "koyote",
+        "bgColor": "0xFFD20E18",
+        "backdropColor": "0xFFF42334",
+        "name": "TechCoyote",
+        "role": "Programmer",
+        "description": "Ayude a portar Vs. Retro a Psych Engine. Añadi algunos recursos y corregi algunos errores.",
+        "iconBG": "0xFFCB0B24",
+        "links": [
+            {
+                "url": "https://bsky.app/profile/techcoyote.net",
+                "image": "bluesky"
+            },
+            {
+                "url": "https://techcoyote.newgrounds.com/art",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 1.1,
+        "scaleSmall": 1.2,
+        "part": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "speck",
+        "bgColor": "0xFFEE943A",
+        "backdropColor": "0xFFD27A0E",
+        "name": "Specksumie",
+        "role": "Animator",
+        "description": "Ayude a animar los sprites de Sakuroma V1.",
+        "iconBG": "0xFFE08C39",
+        "links": [
+            {
+                "url": "https://x.com/specksumie",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.instagram.com/speck.sumie",
+                "image": "instagram"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "duster",
+        "bgColor": "0xFF80B6D3",
+        "backdropColor": "0xFF337E87",
+        "name": "SirDusterBuster",
+        "role": "Sprite Artist",
+        "description": "Ayude a limpiar y animar algunos de los sprites jugables de Zerktro.",
+        "iconBG": "0xFF63ADBE",
+        "links": [
+            {
+                "url": "https://x.com/SirDusterBuster",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCe4NTwb9V3QppGlLP2ebM5g",
+                "image": "youtube"
+            },
+            {
+                "url": "https://sirdusterbuster.newgrounds.com/",
+                "image": "newgrounds"
+            },
+            {
+                "url": "https://m.twitch.tv/sirdusterbuster/home",
+                "image": "twitch"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.95,
+        "part": [
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "fileName": "tantalun",
+        "bgColor": "0xFF3448A5",
+        "backdropColor": "0xFF141134",
+        "name": "Tantalun",
+        "role": "Programmer",
+        "description": "Ayude con la limpieza de ramas y codigo. Tambien organice multiples tareas del proyecto en una hoja de calculo y corregi algunos errores menores.",
+        "iconBG": "0xFF221A68",
+        "links": [
+            {
+                "url": "https://github.com/tantalun-moon",
+                "image": "github"
+            },
+            {
+                "url": "https://bsky.app/profile/tantalun.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "lectro",
+        "bgColor": "0xFFB42B33",
+        "backdropColor": "0xFF4E1217",
+        "name": "LectroArt",
+        "role": "Concept/Sprite Artist",
+        "description": "Cree bocetos de poses de Mizzy, sprites jugables de Maku y ayude con los sprites jugables de Zerktro. Tambien cree los sprites y el fondo de Kamex Preseason Remix.",
+        "iconBG": "0xFFD04141",
+        "links": [
+            {
+                "url": "https://bsky.app/profile/lectroart.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    {
+        "fileName": "corrun",
+        "bgColor": "0xFF039DB4",
+        "backdropColor": "0xFF0A526A",
+        "name": "Corrun",
+        "role": "Programmer, Playtester, Supporter",
+        "description": "Ayude con algunas correcciones de errores y ayude a probar el mod antes de su lanzamiento. Tambien apoye el desarrollo del mod a traves de Patreon.",
+        "iconBG": "0xFF00677A",
+        "scaleBig": 0.8,
+        "scaleSmall": 0.85,
+        "links": [
+            {
+                "url": "https://github.com/Corrun",
+                "image": "github"
+            },
+            {
+                "url": "https://x.com/corrun_UT",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@corrun6635",
+                "image": "youtube"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "nick",
+        "bgColor": "0xFF881B55",
+        "backdropColor": "0xFF3E0932",
+        "name": "Nickey",
+        "role": "Concept Artist",
+        "description": "Trabajo con WolfWrathKnight para crear los sprites de Fun-Sized Ace.",
+        "iconBG": "0xFF691A3D",
+        "links": [
+            {
+                "url": "https://x.com/SECNDHEAVEN",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.92,
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "blue",
+        "bgColor": "0xFF6223F4",
+        "backdropColor": "0xFF4C0ED2",
+        "name": "TeoLikesTea",
+        "role": "Artist, Character/Reference Sheet Designer",
+        "description": "Cree la mayoria de las hojas de referencia de los personajes principales de Infernadise en el Archivo. Tambien cree conceptos de poses para los sprites originales de Sakuroma en la Parte 1. Ademas, ayude con el diseño de la forma sin colmena de Hivemine.",
+        "iconBG": "0xFF3E0BCB",
+        "scaleBig": 0.9,
+        "links": [
+            {
+                "url": "https://twitter.com/teolikestea?lang=en",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCjEssaQ9lwF9HaxeIgvhRYg",
+                "image": "youtube"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "axel",
+        "bgColor": "0xFF3B5C7C",
+        "backdropColor": "0xFF1D3D53",
+        "name": "Axel",
+        "role": "Artist",
+        "description": "Creo la superposicion de luces nocturnas del estadio de IPU.",
+        "iconBG": "0xFF31647D",
+        "links": [
+            {
+                "url": "https://soundcloud.com/axelvei",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://www.youtube.com/AxelVei",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1.1,
+        "part": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "jigsaw",
+        "bgColor": "0xFF7444CD",
+        "backdropColor": "0xFFAB8AEA",
+        "name": "MAJigsaw",
+        "role": "Programmer",
+        "description": "Integre los logros de Game Jolt, Discord Rich Presence y corregi algunos errores de las escenas cinematicas.",
+        "iconBG": "0xFF100524",
+        "links": [
+            {
+                "url": "https://github.com/MAJigsaw77",
+                "image": "github"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "feury",
+        "bgColor": "0xFF9D1063",
+        "backdropColor": "0xFF4F124A",
+        "name": "FeuryDonald",
+        "role": "Programmer",
+        "description": "Ayude con algunas tareas de programacion y ajustes menores. Añadi dialogos adicionales durante el desarrollo de la version 1.5.",
+        "iconBG": "0xFF701950",
+        "links": [
+            {
+                "url": "https://x.com/FeuryDonald",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/DonaldFeury",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1,
+        "part": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "rappergf",
+        "bgColor": "0xFF850D55",
+        "backdropColor": "0xFFC50796",
+        "name": "RapperGF",
+        "role": "Programmer",
+        "description": "Programo los creditos de metadatos que aparecen al comienzo de cada cancion.",
+        "iconBG": "0xFF980068",
+        "links": [
+            {
+                "url": "https://x.com/Rapper_GF_Dev",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCH770e7qvAff6nlSN86cQ6Q",
+                "image": "youtube"
+            },
+            {
+                "url": "https://github.com/RapperGF",
+                "image": "github"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "kavdragun",
+        "bgColor": "0xFF639479",
+        "backdropColor": "0xFF274C38",
+        "name": "KavDragun",
+        "role": "Concept artist",
+        "description": "Creo las poses de boceto para los sprites de Izzurius.",
+        "iconBG": "0xFF327F4D",
+        "links": [
+            {
+                "url": "https://x.com/KavDragun",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.deviantart.com/kavalliernc",
+                "image": "deviantart"
+            },
+            {
+                "url": "https://www.tumblr.com/kavdragun",
+                "image": "tumblr"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "anjer",
+        "bgColor": "0xFF32BBC1",
+        "backdropColor": "0xFF004A67",
+        "name": "Anjer",
+        "role": "Musician",
+        "description": "Cree la version metalera de Ectospasm que se reproduce en el nivel de dificultad Apocalypse.",
+        "iconBG": "0xFF1ABCCF",
+        "links": [
+            {
+                "url": "https://x.com/AnjerX",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/artist/5xbOY6V0x3vUdlJfEYRU5w",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/user/AnjerX",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/anjer",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9
+    },
+    {
+        "fileName": "whatify",
+        "bgColor": "0xFF4C18A0",
+        "backdropColor": "0xFF2C1C6B",
+        "name": "Winn / Whatify",
+        "role": "Programmer",
+        "description": "Implemento algunas utilidades de backend para facilitar la escritura de codigo a otros. Tambien ayudo con algunas correcciones de errores.",
+        "iconBG": "0xFF5927C3",
+        "scaleBig": 0.9,
+        "scaleSmall": 1.1,
+        "links": [
+            {
+                "url": "https://twitter.com/DreadPirateWinn",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@whatify9636",
+                "image": "youtube"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "crudaka",
+        "bgColor": "0xFF881200",
+        "backdropColor": "0xFFF24C13",
+        "name": "Crudaka",
+        "role": "Artist",
+        "description": "Cree el arte original de la pantalla de carga durante el desarrollo de la Parte 1.",
+        "iconBG": "0xFFC62F03",
+        "links": [
+            {
+                "url": "https://x.com/Croodaka",
+                "image": "twitter"
+            },
+            {
+                "url": "tumblr.com/crudaka",
+                "image": "tumblr"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "robyn",
+        "bgColor": "0xFF440F75",
+        "backdropColor": "0xFF5A1795",
+        "name": "RobynTheDragon",
+        "role": "Artist, Character Designer",
+        "description": "Diseñador de personajes adoptados para Mixter. Tambien cree la miniatura del video de la Parte 1.",
+        "iconBG": "0xFF852CC0",
+        "links": [
+            {
+                "url": "https://x.com/Robyn_Wraith",
+                "image": "twitter"
+            },
+            {
+                "url": "http://www.youtube.com/c/RobynTheDragon",
+                "image": "youtube"
+            },
+            {
+                "url": "https://robynthedragon.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "BRN101",
+        "bgColor": "0xFFF2A513",
+        "backdropColor": "0xFF651713",
+        "name": "BRN101",
+        "role": "Programmer",
+        "description": "Ayude con algunas tareas de programacion y correcciones de errores durante el desarrollo de IPU.",
+        "iconBG": "0xFFD69506",
+        "links": [
+            {
+                "url": "https://x.com/brn101dev",
+                "image": "twitter"
+            }
+        ],
+        "part": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "shadowfi",
+        "bgColor": "0xFF2963C8",
+        "backdropColor": "0xFF0B287F",
+        "name": "Shadowfi",
+        "role": "Programmer",
+        "description": "Ayude a programar algunas cosas menores durante la transicion de Kade Engine a Psych Engine.",
+        "iconBG": "0xFF0A3674",
+        "links": [
+            {
+                "url": "https://x.com/Shadowfi1385",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@Shadowfi1385",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "fileName": "snow",
+        "bgColor": "0xFFC92F2A",
+        "backdropColor": "0xFFFF5A4E",
+        "name": "SnowTheFox",
+        "role": "Modcharter",
+        "description": "Creo la mayoria de los modcharts de la Parte 1. (Spectral, Ectospasm, etc.)",
+        "iconBG": "0xFFD34646",
+        "links": [
+            {
+                "url": "https://x.com/SnowTheFox122",
+                "image": "twitter"
+            },
+            {
+                "url": "https://t.co/2hzPZMMXdl",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9,
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "tsg",
+        "bgColor": "0xFF7A7A7A",
+        "backdropColor": "0xFF4E4E4E",
+        "name": "AyeTSG ",
+        "role": "Programmer",
+        "description": "Ayudo con varias tareas de programacion y correccion de errores durante el desarrollo de la Parte 1. Tambien implemento el sistema de dialogos de la Parte 1.",
+        "iconBG": "0xFF4A4A4A",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@AyeTSG/featured",
+                "image": "youtube"
+            },
+            {
+                "url": "https://bsky.app/profile/ayetsg.com",
+                "image": "bluesky"
+            },
+            {
+                "url": "https://github.com/AyeTSG",
+                "image": "github"
+            }
+        ],
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "mordalh",
+        "bgColor": "0xFFD4D41A",
+        "backdropColor": "0xFF737374",
+        "name": "Mord A.L.H.",
+        "role": "Concept Artist",
+        "description": "Cree los conceptos en los que se basaron las poses de los sprites de Atrocean.",
+        "iconBG": "0xFF003000",
+        "links": [
+            {
+                "url": "https://www.instagram.com/mord_a.l.h/",
+                "image": "instagram"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "clacy",
+        "bgColor": "0xFF63768E",
+        "backdropColor": "0xFFAEC3D3",
+        "name": "ClacyYe",
+        "role": "Artist",
+        "description": "Cree el arte de la pantalla final para la semana de Metro en IPU/1.5.",
+        "iconBG": "0xFFBEDFE7",
+        "links": [
+            {
+                "url": "https://x.com/ClacyYe",
+                "image": "twitter"
+            },
+            {
+                "url": "https://clacy2812.tumblr.com/",
+                "image": "tumblr"
+            }
+        ],
+        "scaleBig": 0.7,
+        "scaleSmall": 0.85,
+        "part": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "opsiian",
+        "bgColor": "0xFF0F0F0F",
+        "backdropColor": "0xFF090909",
+        "name": "Opsiian",
+        "role": "Character Designer, Playtester",
+        "description": "Ayude con el diseño de Hivemine.",
+        "iconBG": "0xFF131313",
+        "links": [
+            {
+                "url": "https://x.com/NockzuisBunk",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@opsiian",
+                "image": "youtube"
+            }
+        ],
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "cyber",
+        "bgColor": "0xFFD2257B",
+        "backdropColor": "0xFF1D222F",
+        "name": "Cyber",
+        "role": "Character Designer",
+        "description": "Ayude con el diseño de Insatian.",
+        "iconBG": "0xFFD2257B",
+        "links": [
+            {
+                "url": "https://x.com/Cyber_Crows",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@CyberCrows",
+                "image": "youtube"
+            }
+        ]
+    },
+    {
+        "fileName": "deekay",
+        "bgColor": "0xFF066309",
+        "backdropColor": "0xFF76D400",
+        "name": "Deekay",
+        "role": "Character Designer",
+        "description": "Ayudo con el diseño de Atrocean.",
+        "iconBG": "0xFF002500",
+        "links": [
+            {
+                "url": "https://x.com/AureasDragone",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1,
+        "part": [
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "iago",
+        "bgColor": "0xFFFFFFFF",
+        "backdropColor": "0xFF000000",
+        "name": "IagoAnimator",
+        "role": "Sprite Artist, FNF Minus Creator",
+        "description": "Ayudo a crear los sprites originales de RetroSpecter V1. Tambien es el creador de Friday Night Funkin' Minus, que inspiro la actualizacion IPU/1.5.",
+        "iconBG": "0xFFFFFFFF",
+        "links": [
+            {
+                "url": "https://x.com/iagoanimator",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@iagoanimates5232/videos",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "fileName": "ashgray",
+        "bgColor": "0xFF670051",
+        "backdropColor": "0xFFF003BF",
+        "name": "AshDash",
+        "role": "Character Designer, FNF Minus Co-Creator",
+        "description": "Diseñador de personajes para Torrendous. Tambien es el cocreador de Friday Night Funkin' Minus, que inspiro la actualizacion IPU/1.5.",
+        "iconBG": "0xFFFD06D3",
+        "links": [
+            {
+                "url": "https://x.com/ashgray_art",
+                "image": "twitter"
+            }
+        ]
+    },
+    {
+        "fileName": "phantom",
+        "bgColor": "0xFFE02D79",
+        "backdropColor": "0xFF1E1B30",
+        "name": "Phantom Fear",
+        "role": "FNF Corruption Creator",
+        "description": "Creador de Friday Night Funkin' Corruption, que inspiro la cancion y los sprites de Corruptro.",
+        "iconBG": "0xFF358E44",
+        "links": [
+            {
+                "url": "https://x.com/phantomfearop",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@PhantomFearYT",
+                "image": "youtube"
+            }
+        ]
+    },
+    {
+        "fileName": "pincer",
+        "bgColor": "0xFFE0E0E0",
+        "backdropColor": "0xFF656565",
+        "name": "PincerProd",
+        "role": "FNF Corruption Co-Creator",
+        "description": "Creador de Friday Night Funkin' Corruption, que inspiro la cancion y los sprites de Corruptro.",
+        "iconBG": "0xFF7D7C7B",
+        "links": [
+            {
+                "url": "https://x.com/PincerProd",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/c/pincerprod",
+                "image": "youtube"
+            },
+            {
+                "url": "https://www.instagram.com/pincerprod/",
+                "image": "instagram"
+            }
+        ]
+    },
+    {
+        "fileName": "romalac",
+        "bgColor": "0xFF26372D",
+        "backdropColor": "0xFF30B544",
+        "name": "Romalac",
+        "role": "Patreon Backer/Stream Supporter",
+        "description": "Ha realizado generosas donaciones en multiples transmisiones en vivo durante años y tambien ha respaldado el nivel NFTerry en Patreon para apoyar el proyecto.",
+        "links": [
+            {
+                "url": "https://bsky.app/profile/romalac.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "iconBG": "0xFF30B544",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "tarkin",
+        "bgColor": "0xFF9F0114",
+        "backdropColor": "0xFF0C0D0E",
+        "name": "Dark Tarkin",
+        "role": "Patreon Backer",
+        "description": "Apoyo generosamente el nivel Ebony Eraser o superior en Patreon para respaldar el proyecto.",
+        "links": [
+            {
+                "url": "https://www.twitch.tv/darktarkin",
+                "image": "twitch"
+            }
+        ],
+        "iconBG": "0xFF431C72",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "soma",
+        "bgColor": "0xFF46000C",
+        "backdropColor": "0xFFDFE4E5",
+        "name": "SomaBranford",
+        "role": "Patreon Backer",
+        "description": "Apoyo generosamente el nivel Ebony Eraser o superior en Patreon para respaldar el proyecto.",
+        "iconBG": "0xFF11070B",
+        "links": [
+            {
+                "url": "https://x.com/SomaBranford/with_replies",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1
+    },
+    {
+        "fileName": "leaddeamon",
+        "bgColor": "0xFFD4D3D2",
+        "backdropColor": "0xFF858585",
+        "name": "Lead Deamons",
+        "role": "Patreon Backer",
+        "description": "Apoyo generosamente el nivel Ebony Eraser o superior varias veces en Patreon para respaldar el proyecto.",
+        "iconBG": "0xFF6E6E6E",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "ninjamaster",
+        "bgColor": "0xFF0F6399",
+        "backdropColor": "0xFF329BDF",
+        "name": "NinjaMaster909",
+        "role": "Patreon Backer",
+        "description": "Apoyo generosamente el nivel Ebony Eraser o superior en Patreon para respaldar el proyecto.",
+        "iconBG": "0xFF0D161C",
+        "links": [
+            {
+                "url": "https://www.twitch.tv/ninjamaster909",
+                "image": "twitch"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "proskull",
+        "bgColor": "0xFF181A1B",
+        "backdropColor": "0xFF445057",
+        "name": "Proskull",
+        "role": "Patreon Backer",
+        "description": "Apoyo generosamente el nivel Ebony Eraser o superior en Patreon para respaldar el proyecto.",
+        "iconBG": "0xFF131314",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "doomman",
+        "bgColor": "0xFF8C5E79",
+        "backdropColor": "0xFFFAEEF1",
+        "name": "DOOM Man9012",
+        "role": "Patreon Backer",
+        "description": "Apoyo generosamente el nivel Ebony Eraser o superior en Patreon para respaldar el proyecto.",
+        "iconBG": "0xFF0E0E0E",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "toreiner",
+        "bgColor": "0xFF100019",
+        "backdropColor": "0xFF6400A0",
+        "name": "Toreiner",
+        "role": "Patreon Backer",
+        "description": "Apoyo generosamente el nivel Ebony Eraser o superior en Patreon para respaldar el proyecto.",
+        "links": [
+            {
+                "url": "https://x.com/DreamToreiner",
+                "image": "twitter"
+            }
+        ],
+        "iconBG": "0xFF58200E",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "fritz",
+        "bgColor": "0xFF142F22",
+        "backdropColor": "0xFF337254",
+        "name": "FrogOnTheFritz",
+        "role": "Patreon Backer",
+        "description": "Apoyo generosamente el nivel Ebony Eraser o superior en Patreon para apoyar el proyecto.",
+        "iconBG": "0xFF2E2445",
+        "links": [
+            {
+                "url": "https://x.com/frogonthefritz",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "grayfeather",
+        "bgColor": "0xFF283140",
+        "backdropColor": "0xFF2CCFEB",
+        "name": "GrayFeather234",
+        "role": "Patreon Backer/Stream Supporter",
+        "description": "Dono generosamente en multiples transmisiones en vivo y compro toneladas de peluches para apoyar el proyecto.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "jgn",
+        "bgColor": "0xFF995232",
+        "backdropColor": "0xFFFFCB2B",
+        "name": "JGNetwork64",
+        "role": "Mass Plushie Buyer",
+        "description": "Compro generosamente montones de peluches para apoyar el proyecto.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "deminos",
+        "bgColor": "0xFFA3030C",
+        "backdropColor": "0xFF000000",
+        "name": "Deminos Skullwolf",
+        "role": "Stream Supporter",
+        "description": "Dono generosamente en multiples transmisiones en vivo durante años, lo que ayudo a apoyar el proyecto.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "jparaujo",
+        "bgColor": "0xFF9A4540",
+        "backdropColor": "0xFF3A3A3A",
+        "name": "Jparaujo127",
+        "role": "Stream Supporter",
+        "description": "Dono generosamente en multiples transmisiones en vivo durante años, lo que ayudo a apoyar el proyecto.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "vexirion",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFFFFFFF",
+        "name": "Vexirion",
+        "role": "Stream Supporter",
+        "description": "Ha realizado generosas donaciones en multiples transmisiones en vivo durante años, lo que ha ayudado a apoyar el proyecto.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "arthurcortes",
+        "bgColor": "0xFF1E4878",
+        "backdropColor": "0xFF5E89BC",
+        "name": "ArthurCortes",
+        "role": "Stream Supporter",
+        "description": "Dono generosamente en multiples transmisiones en vivo durante años, lo que ayudo a apoyar el proyecto.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "anotheranon",
+        "bgColor": "0xFFEF78B0",
+        "backdropColor": "0xFFF8D5E9",
+        "name": "AnotherAnon",
+        "role": "Stream Supporter",
+        "description": "Dono generosamente en multiples transmisiones en vivo durante años, lo que ayudo a apoyar el proyecto.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "notecardpasta",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF0000FE",
+        "name": "NotecardPasta",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para Nightflaid.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/notecardpasta",
+                "image": "twitter"
+            },
+            {
+                "url": "https://bsky.app/profile/notecardpasta.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "vipercrown",
+        "bgColor": "0xFF957364",
+        "backdropColor": "0xFF3C345B",
+        "name": "ViperCrown",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para Velasma.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/ViperCrownArt",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "aephalen",
+        "bgColor": "0xFF5EA987",
+        "backdropColor": "0xFF0069B6",
+        "name": "Aephalen",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para Serpenscheme.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/aephalenn",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "prouddelle",
+        "bgColor": "0xFF0C2D37",
+        "backdropColor": "0xFF871369",
+        "name": "ProudDelle",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para Stitchriol.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/ProudDelle",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "dako",
+        "bgColor": "0xFF586F4F",
+        "backdropColor": "0xFFD065C7",
+        "name": "Dak0",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para Lust Sentinels.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/Dak0_X",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.deviantart.com/dak0-da",
+                "image": "deviantart"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "swartss",
+        "bgColor": "0xFFFF4393",
+        "backdropColor": "0xFFFFEDE5",
+        "name": "Sw_Artss",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para Ai.No 13.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/ArtssSw",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "igrecheniy",
+        "bgColor": "0xFF7D7278",
+        "backdropColor": "0xFF46357C",
+        "name": "Igrecheniy",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para Mercerrus.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/igrecheniy/media",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "tasira",
+        "bgColor": "0xFF1B0622",
+        "backdropColor": "0xFFDB143E",
+        "name": "Tasira",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para la especie Crimstalker.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://toyhou.se/Tasira",
+                "image": "toyhouse"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "srnuvem",
+        "bgColor": "0xFF146D31",
+        "backdropColor": "0xFFDA923D",
+        "name": "Sr Nuvem",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para Rogato y parte del arte mural del final del juego.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://www.deviantart.com/sr-nuvem",
+                "image": "deviantart"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "Vlxen",
+        "bgColor": "0xFFD6A7C8",
+        "backdropColor": "0xFFF5F5F6",
+        "name": "Vlxen",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para Lunacent.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://toyhou.se/Vlxen",
+                "image": "toyhouse"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "hurman",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFFFFFFF",
+        "name": "Hurman",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para Surpreme Infernalord y otros personajes del mural del final del juego.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "surkefish",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF9CD461",
+        "name": "Surkefish",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para Pestilence.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "origamiorange",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFF659FC",
+        "name": "Origami Orange",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para uno de los personajes del mural del final del juego.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "dedalekha",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF8D7EFB",
+        "name": "Dedalekha",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para uno de los personajes del mural del final del juego.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "adelfrey",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF76ECFF",
+        "name": "Adelfrey",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para uno de los personajes del mural del final del juego.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "riipley",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFE7B7FF",
+        "name": "Riipley",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para uno de los personajes del mural del final del juego.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "okul",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFCBFFEC",
+        "name": "Okul",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes para uno de los personajes del mural del final del juego.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "tumbari",
+        "bgColor": "0xFF27002A",
+        "backdropColor": "0xFF6F3872",
+        "name": "Tumbari Jons",
+        "role": "Character Designer",
+        "description": "Diseñador de adopcion de personajes para uno de los personajes secundarios de Lust Week.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "mortalmachine",
+        "bgColor": "0xFF27002A",
+        "backdropColor": "0xFF6F3872",
+        "name": "MortalMachine",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para uno de los personajes secundarios de Lust Week.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "pypixy",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFFFFF9A",
+        "name": "Pypixy",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para algunos de los personajes secundarios de Lust Week y los personajes del mural del final del juego.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://bsky.app/profile/pypixy.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "protohex",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFC253A6",
+        "name": "ProtoHeex",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para Famine, asi como para uno de los personajes secundarios de Lust Week.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "liquidmagma",
+        "bgColor": "0xFFDEA5B4",
+        "backdropColor": "0xFF9F0B23",
+        "name": "Liquid Magma",
+        "role": "Character Designer",
+        "description": "Diseñador de personajes adoptados para uno de los personajes secundarios de Lust Week.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "igenesisx",
+        "bgColor": "0xFF290C67",
+        "backdropColor": "0xFF8D41FB",
+        "name": "iGenesisX",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño IPU a Twitter que se utilizo en una de las fases.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "littleboxgoi",
+        "bgColor": "0xFFABFB76",
+        "backdropColor": "0xFFFFFFFF",
+        "name": "Littlebox Goi",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño de IPU a Twitter que se utilizo en una de las fases.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "zizidoodles",
+        "bgColor": "0xFF3538F3",
+        "backdropColor": "0xFF7E80FF",
+        "name": "ZiZiDoodles",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño IPU a Twitter que se utilizo en una de las fases.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "kingmel",
+        "bgColor": "0xFF5C3F44",
+        "backdropColor": "0xFFC89B5D",
+        "name": "King Mel",
+        "role": "Playtester, IPU Cameo",
+        "description": "Probo Vs. RetroSpecter Parte 2. Tambien envio un diseño IPU en Twitter que se utilizo en una de las fases.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/KingMusicalMel",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@KingMusicalMel",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/kingmusicalmel",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://bsky.app/profile/kingmusicalmel.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "nisosiam",
+        "bgColor": "0xFF1A2328",
+        "backdropColor": "0xFF9BFE7F",
+        "name": "NiSoSiam",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño de IPU a Twitter que se utilizo en una de las fases.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "firefoxartz",
+        "bgColor": "0xFF262523",
+        "backdropColor": "0xFFF27D1E",
+        "name": "FireFoxArtz",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño de IPU a Twitter que se utilizo en una de las fases.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "trevortouchdown",
+        "bgColor": "0xFF353373",
+        "backdropColor": "0xFFABA9DA",
+        "name": "Trevor",
+        "role": "Character Designer, Playtester, IPU Cameo",
+        "description": "Envie un diseño de IPU a Twitter que se utilizo en una de las fases y cree el diseño para Rockone.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/ConwayConartist",
+                "image": "twitter"
+            },
+            {
+                "url": "https://conwayconartist.tumblr.com/",
+                "image": "tumblr"
+            },
+            {
+                "url": "https://bsky.app/profile/conwayconartist.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "sba2468",
+        "bgColor": "0xFFB97D37",
+        "backdropColor": "0xFFFFFAA9",
+        "name": "SBA2468",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño de IPU a Twitter que se utilizo en una de las fases.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "doradohedgehog",
+        "bgColor": "0xFF272027",
+        "backdropColor": "0xFF18B1EC",
+        "name": "DoradoHedgehog",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño de IPU a Twitter que se utilizo en una de las etapas.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "dracrio",
+        "bgColor": "0xFF303030",
+        "backdropColor": "0xFFAECAD7",
+        "name": "DracRio",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño de IPU a Twitter que se utilizo en una de las etapas.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "neoartsyobsidian",
+        "bgColor": "0xFF181818",
+        "backdropColor": "0xFF00FE01",
+        "name": "NeoArtsyObsidian",
+        "role": "IPU Cameo",
+        "description": "Envie un diseño de IPU a Twitter que se utilizo en una de las etapas.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "rixfx",
+        "bgColor": "0xFF402D5B",
+        "backdropColor": "0xFFF49F99",
+        "name": "RixFX",
+        "role": "Original Composer",
+        "description": "Cree el cromatico utilizado para Mico.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/rixfx_",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@rixfx_",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "sock",
+        "bgColor": "0xFFFE2DC7",
+        "backdropColor": "0xFF66DFEA",
+        "name": "Sock.Clip",
+        "role": "Original Composer",
+        "description": "Compuso las canciones: Lo-Fight, Ballistic y Boogieman.",
+        "iconBG": "0xFFFFFFFF",
+        "links": [
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/1KGJ3vGCbGv5MdGN7i3A97",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCYmJPQ714gxYF9ADiml5H9Q",
+                "image": "youtube"
+            },
+            {
+                "url": "https://www.instagram.com/sock.clip/",
+                "image": "instagram"
+            }
+        ],
+        "scaleBig": 0.5
+    },
+    {
+        "fileName": "sarvae",
+        "bgColor": "0xFF005867",
+        "backdropColor": "0xFF32B1C1",
+        "name": "Sarvéproductions",
+        "role": "Voice Actor",
+        "description": "Hice las voces para la cancion: Boogieman.",
+        "iconBG": "0xFF408CBB",
+        "links": [
+            {
+                "url": "https://x.com/Sarveproduction",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UC2sMTG-GrHXDVVgP2_cJUHg",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/sarveproductions",
+                "image": "instagram"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "fluffyhairs",
+        "bgColor": "0xFF312A1D",
+        "backdropColor": "0xFFA0985F",
+        "name": "FluffyHairs",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Chiller.",
+        "iconBG": "0xFFFFF296",
+        "links": [
+            {
+                "url": "https://www.youtube.com/channel/UC45OK9Bcx9R7uJ1tPMJaTkg",
+                "image": "youtube"
+            },
+            {
+                "url": "https://open.spotify.com/artist/0WrQSlkBH3KOBL9jOctrMs",
+                "image": "spotify"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "SimplyCrispy",
+        "bgColor": "0xFFDD2398",
+        "backdropColor": "0xFFF23B7D",
+        "name": "SimplyCrispy",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Chiller.",
+        "iconBG": "0xFF7300C8",
+        "links": [
+            {
+                "url": "https://twitter.com/breakfastsbest",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@SimplyCrispy",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/breakfastsbest",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/42Pgjf4hg0jwNcos8g1dDS",
+                "image": "spotify"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "punk",
+        "bgColor": "0xFF0108FF",
+        "backdropColor": "0xFF210326",
+        "name": "Punkett",
+        "role": "Original Composer",
+        "description": "Compuso las canciones originales: Triple Trouble, Frostbite (Hypno's Lullaby) y Death Toll.",
+        "iconBG": "0xFF000003",
+        "links": [
+            {
+                "url": "https://twitter.com/_punkett",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCTpPPHDOSMeaikTXfngZABg",
+                "image": "youtube"
+            },
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/3SwTlwww12v4tI3dojcSIm",
+                "image": "spotify"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "rozebud",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF2D32E5",
+        "name": "Rozebud",
+        "role": "Original Composer",
+        "description": "Compuso las canciones originales: Improbable Outset, Madness, Hellclown y Foolhardy.",
+        "iconBG": "0xFFFC269C",
+        "links": [
+            {
+                "url": "https://x.com/helpme_thebigt",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/artist/5UwDhbNL98PxS4KOm5rGSf?autoplay=true",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/@Rozebud",
+                "image": "youtube"
+            },
+            {
+                "url": "https://rozebud.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.8
+    },
+    {
+        "fileName": "jads",
+        "bgColor": "0xFF32C133",
+        "backdropColor": "0xFF006741",
+        "name": "JADS",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Expurgation.",
+        "iconBG": "0xFF00C461",
+        "links": [
+            {
+                "url": "https://x.com/aw3somejds",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCxJdj-BQhjdhD-c5GPoLF8g",
+                "image": "youtube"
+            },
+            {
+                "url": "https://j4ds.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "banbuds",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFFFFFFF",
+        "name": "Banbuds",
+        "role": "Voice Actor",
+        "description": "Hizo las voces para: Improbable Outset, Madness, Hellclown y Expurgation.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "yingyang",
+        "bgColor": "0xFF1AC7EB",
+        "backdropColor": "0xFF2052B1",
+        "name": "YingYang48",
+        "role": "Original Composer",
+        "description": "Compuso las canciones originales: R.A.M. y Glitcher.",
+        "iconBG": "0xFF00E4FF",
+        "links": [
+            {
+                "url": "https://twitter.com/yingwashere",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/artist/0xwpAS1x8YRLl5IkJWXcC0?autoplay=true",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/c/yingyang48",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/yingyang48",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "perez",
+        "bgColor": "0xFFFF8200",
+        "backdropColor": "0xFF444B90",
+        "name": "SrPerez",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: God Eater.",
+        "iconBG": "0xFF6371D7",
+        "links": [
+            {
+                "url": "https://twitter.com/newsrperez",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/6gk7niZP2ND2MSZsST37No",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/@srPerezCa",
+                "image": "youtube"
+            },
+            {
+                "url": "https://srperez.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "mike",
+        "bgColor": "0xFFEDB413",
+        "backdropColor": "0xFF543BF2",
+        "name": "Mike Geno",
+        "role": "Original Composer",
+        "description": "Compuso las canciones originales: Gospel y Zavodila.",
+        "iconBG": "0xFF412C9D",
+        "links": [
+            {
+                "url": "https://twitter.com/electro_mike",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/artist/1KWaAy4Snr2cOmU9gYRY7E?autoplay=true",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCyDQKOgEjuIiuPXctcuQKlg",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/user-803738864",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "ezhalt",
+        "bgColor": "0xFF690643",
+        "backdropColor": "0xFFA50953",
+        "name": "EZHalt",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Athazagoraphobia.",
+        "iconBG": "0xFFA7185B",
+        "links": [
+            {
+                "url": "https://twitter.com/_ezhaltd",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/7CCVSrFHjUynIJoL8E9vec",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UClh8H2U7i6ZRwifiC_SOaUw",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/jenkos",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "atsu",
+        "bgColor": "0xFF00C0CF",
+        "backdropColor": "0xFF0927A5",
+        "name": "Atsuover",
+        "role": "Original Composer",
+        "description": "Compuso las canciones originales: Nerves, Release y Fading.",
+        "iconBG": "0xFF022070",
+        "links": [
+            {
+                "url": "https://twitter.com/atsuover",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/artist/3Abo5SyDgYdFJUjAZOZfpN?autoplay=true",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/atsuover",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/annetix",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "saruky",
+        "bgColor": "0xFFCF8100",
+        "backdropColor": "0xFF272CA9",
+        "name": "Saruky",
+        "role": "Original Composer",
+        "description": "Compuso las canciones originales: thunderstorm y smokebomb.",
+        "iconBG": "0xFF000408",
+        "links": [
+            {
+                "url": "https://twitter.com/saruky__",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/68s2Js8LQoJ9k1N2veNK1V",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/@Saruky",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/saruky",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "marstarbro",
+        "bgColor": "0xFFCF5E00",
+        "backdropColor": "0xFF4D1279",
+        "name": "MarStarBro",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Triple Trouble.",
+        "iconBG": "0xFFE55916",
+        "links": [
+            {
+                "url": "https://twitter.com/marstarmain",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/42eMRtcry7T3HB32fq5p0H",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/@MarStarBro",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/marstarbro120",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "uptaunt",
+        "bgColor": "0xFF51AAF4",
+        "backdropColor": "0xFF7A0C55",
+        "name": "Uptaunt",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Triple Trouble.",
+        "iconBG": "0xFFFEA1FD",
+        "links": [
+            {
+                "url": "https://open.spotify.com/artist/5wBGpzsVU2HtLB0AjXG0uB",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/@uptaunt2542",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/neon-oompa/faker-remix-uptaunt",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://www.twitch.tv/uptaunt",
+                "image": "twitch"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "kazuya",
+        "bgColor": "0xFF924849",
+        "backdropColor": "0xFF383838",
+        "name": "Dazuko Kazuya",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: CHKDSK.",
+        "iconBG": "0xFFFFFFFF",
+        "links": [
+            {
+                "url": "https://x.com/dazukodtm",
+                "image": "twitter"
+            },
+            {
+                "url": "https://dazukomusic.newgrounds.com/",
+                "image": "newgrounds"
+            },
+            {
+                "url": "https://www.youtube.com/c/KazuyaJcore",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/kazuyajcore",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "lno",
+        "bgColor": "0xFFffed9b",
+        "backdropColor": "0xFFd4b47b",
+        "name": "LiterallyNoOne",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: CHKDSK.",
+        "iconBG": "0xFFF7E595",
+        "links": [
+            {
+                "url": "https://x.com/l_no_one1",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/LiterallyNoOne",
+                "image": "youtube"
+            },
+            {
+                "url": "https://bsky.app/profile/literallynoone.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "bbpanzu",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF32C16C",
+        "name": "BBPanzu",
+        "role": "Original Composer",
+        "description": "Compuso las canciones originales: Manifest y Heartbass.",
+        "iconBG": "0xFF37C761",
+        "links": [
+            {
+                "url": "https://twitter.com/bbpnz213",
+                "image": "twitter"
+            },
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/4h8eXe8mMUAVe2NthUKnek",
+                "image": "spotify"
+            },
+            {
+                "url": "https://www.youtube.com/channel/UCkdhotVDNwu7ZCoe-99AJRQ",
+                "image": "youtube"
+            },
+            {
+                "url": "https://bb-panzu.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.8,
+        "scaleSmall": 0.9
+    },
+    {
+        "fileName": "angelgutz",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFAE676B",
+        "name": "AngelGutz",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Headspace.",
+        "iconBG": "0xFFFEFDFE",
+        "links": [
+            {
+                "url": "https://x.com/ANGELGUTZ_INC",
+                "image": "twitter"
+            },
+            {
+                "url": "https://soundcloud.com/angelgutz_inc",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://www.instagram.com/cherubdisorderrr/",
+                "image": "instagram"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "friedfrick",
+        "bgColor": "0xFF006FBB",
+        "backdropColor": "0xFF00FF1F",
+        "name": "FriedFrick",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Unbeatable (Nivel 4).",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@FriedFrick",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/friedfrick",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://x.com/FriedFrick",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "redtv",
+        "bgColor": "0xFF1C2340",
+        "backdropColor": "0xFFFE1600",
+        "name": "RedTV53",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Unbeatable (Nivel 4).",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@RedTv53",
+                "image": "youtube"
+            },
+            {
+                "url": "https://x.com/redtv_53",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "sturm",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF000000",
+        "name": "Churgney Gurgney",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Silly Billy.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://twitter.com/gurgney",
+                "image": "twitter"
+            },
+            {
+                "url": "https://soundcloud.com/gurgney",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://www.youtube.com/@churgneygurgney9895",
+                "image": "youtube"
+            },
+            {
+                "url": "https://open.spotify.com/intl-pt/artist/3LAEZsCc4CdQdyUUrdy0WK",
+                "image": "spotify"
+            }
+        ],
+        "scaleBig": 0.9,
+        "scaleSmall": 1
+    },
+    {
+        "fileName": "ironik",
+        "bgColor": "0xFFC88366",
+        "backdropColor": "0xFFA31221",
+        "name": "Ironik",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Silly Billy.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://www.youtube.com/channel/UCefozXQcl9tTiGB6_ib7I_g",
+                "image": "youtube"
+            },
+            {
+                "url": "https://x.com/Ironik0422?lang=en",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "duccly",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFF47475C",
+        "name": "Duccly",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Silly Billy.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@marleyjauz",
+                "image": "youtube"
+            },
+            {
+                "url": "https://x.com/marleyjauz",
+                "image": "twitter"
+            },
+            {
+                "url": "https://soundcloud.com/duccly",
+                "image": "soundcloud"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "spacenautics",
+        "bgColor": "0xFF000000",
+        "backdropColor": "0xFFFFFFFF",
+        "name": "Spacenautics",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Silly Billy.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@spacenautics",
+                "image": "youtube"
+            },
+            {
+                "url": "https://x.com/spacenautica",
+                "image": "twitter"
+            },
+            {
+                "url": "https://bsky.app/profile/spacenautica.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "honkish",
+        "bgColor": "0xFFA9001F",
+        "backdropColor": "0xFFF6A604",
+        "name": "Honkish",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: Silly Billy.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/H0nkish",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@honkish",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "agoti",
+        "bgColor": "0xFF0B0100",
+        "backdropColor": "0xFFCB0407",
+        "name": "AGOTI",
+        "role": "Original Composer",
+        "description": "Compuso la cancion original: A.G.O.T.I.",
+        "iconBG": "0xFF000000",
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "sleepyoreo",
+        "bgColor": "0xFF454251",
+        "backdropColor": "0xFFF6F2FF",
+        "name": "SleepyOreo",
+        "role": "Original Composer",
+        "description": "Compuse las canciones originales: Scary Night y Think.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://www.youtube.com/@SleepyOreo",
+                "image": "youtube"
+            },
+            {
+                "url": "https://soundcloud.com/haioreo",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://x.com/sleepy_oreo",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "kade",
+        "bgColor": "0xFF1D8374",
+        "backdropColor": "0xFF07563E",
+        "name": "KadeDev",
+        "role": "SPECIAL THANKS",
+        "description": "Cree Kade Engine, que es lo que utilizaba Vs. Retro Part 1/1.5 para funcionar.",
+        "iconBG": "0xFF147E54",
+        "links": [
+            {
+                "url": "https://x.com/kade0912",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/c/KadeDev",
+                "image": "youtube"
+            },
+            {
+                "url": "https://github.com/kadedev/Kade-Engine",
+                "image": "github"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "savour",
+        "bgColor": "0xFF1E0F3A",
+        "backdropColor": "0xFF6A3239",
+        "name": "Savour Official",
+        "role": "Original Composer",
+        "description": "Compuse las canciones originales: Scary Night y Think.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/savour_official?lang=en",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "jaeg",
+        "bgColor": "0x679bc0",
+        "backdropColor": "0x433d63",
+        "name": "Jaeg",
+        "role": "Playtester",
+        "description": "Probe Vs. RetroSpecter Part 2.",
+        "iconBG": "0x433d63",
+        "links": [
+            {
+                "url": "https://bsky.app/profile/jaegn.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "kinix",
+        "bgColor": "0xa3f9ff",
+        "backdropColor": "0x36ced9",
+        "name": "Kinix",
+        "role": "Playtester",
+        "description": "Probe el juego Vs. RetroSpecter Part 2.",
+        "iconBG": "0x8bd4d9",
+        "links": [
+            {
+                "url": "https://bsky.app/profile/kinix.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "mk",
+        "bgColor": "0xff9515",
+        "backdropColor": "0x000000",
+        "name": "Mkv8",
+        "role": "Playtester",
+        "description": "Probe el juego Vs. RetroSpecter Part 2.",
+        "iconBG": "0xd97f12",
+        "links": [
+            {
+                "url": "https://x.com/Mkv8Art",
+                "image": "twitter"
+            },
+            {
+                "url": "https://bsky.app/profile/mkv8.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "frosty",
+        "bgColor": "0xa21d28",
+        "backdropColor": "0x55555f",
+        "name": "Frosty",
+        "role": "Playtester",
+        "description": "Probe Vs. RetroSpecter Parte 2.",
+        "iconBG": "0x0b0c20",
+        "links": [
+            {
+                "url": "https://x.com/Frostsparked",
+                "image": "twitter"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "law",
+        "bgColor": "0xf3f3f3",
+        "backdropColor": "0x60b8a6",
+        "name": "Lawaow",
+        "role": "Playtester",
+        "description": "Probo el juego Vs. RetroSpecter Part 2.",
+        "iconBG": "0xcccccc",
+        "links": [
+            {
+                "url": "https://x.com/lawaow_?t=RWz46XyBm2qq9oFKqm2jiA",
+                "image": "twitter"
+            },
+            {
+                "url": "https://bsky.app/profile/lawaow.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "soulegal",
+        "bgColor": "0xd3232e",
+        "backdropColor": "0xffffff",
+        "name": "Soulegal",
+        "role": "Playtester",
+        "description": "Probado para Vs. RetroSpecter Parte 2.",
+        "iconBG": "0xab1c25",
+        "links": [
+            {
+                "url": "https://x.com/stardustyves",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.youtube.com/@SoulegalFNF",
+                "image": "youtube"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "wizard",
+        "bgColor": "0x6d5e78",
+        "backdropColor": "0xeee4fa",
+        "name": "Sir Wizard",
+        "role": "Playtester",
+        "description": "Probado para Vs. RetroSpecter Parte 2.",
+        "iconBG": "0x3b3156",
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "vultra",
+        "bgColor": "0x000000",
+        "backdropColor": "0xfa6a0a",
+        "name": "Vultra",
+        "role": "Playtester",
+        "description": "Probado para Vs. RetroSpecter Parte 2.",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://twitter.com/ThatOneVultra",
+                "image": "twitter"
+            },
+            {
+                "url": "https://toyhou.se/Vultra",
+                "image": "toyhouse"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "star",
+        "bgColor": "0x8f55a9",
+        "backdropColor": "0x523e59",
+        "name": "Star",
+        "role": "Playtester",
+        "description": "Probado para Vs. RetroSpecter Parte 2.",
+        "iconBG": "0x371844",
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "berry",
+        "bgColor": "0xC3ABFD",
+        "backdropColor": "0x464489",
+        "name": "BerryVee",
+        "role": "Playtester",
+        "description": "Probado para Vs. RetroSpecter Parte 2.",
+        "iconBG": "0x464489",
+        "links": [
+            {
+                "url": "https://x.com/BerryVeeArt",
+                "image": "twitter"
+            },
+            {
+                "url": "https://bsky.app/profile/berryveeart.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "wulvs",
+        "bgColor": "0xc195e2",
+        "backdropColor": "0x5e4570",
+        "name": "WulvsAround",
+        "role": "Playtester",
+        "description": "Probado para Vs. RetroSpecter Parte 2.",
+        "iconBG": "0x5e4570",
+        "links": [
+            {
+                "url": "https://bsky.app/profile/wulvsaround.bsky.social",
+                "image": "bluesky"
+            }
+        ],
+        "scaleBig": 0.9,
+        "part": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "fileName": "kawaiisprite",
+        "bgColor": "0xFF28668D",
+        "backdropColor": "0xFF0F0F0F",
+        "name": "Kawai Sprite",
+        "role": "Original Composer, Friday Night Funkin' (Base game) Developer",
+        "description": "Compuso las canciones: Bopeebo, Dad Battle, South, Pico, Philly Nice, Blammed, M.I.L.F., Cocoa, Roses, Thorns, Ugh, Stress y Darnell. Musico de Friday Night Funkin' (juego base).",
+        "iconBG": "0xFF378EC5",
+        "links": [
+            {
+                "url": "https://twitter.com/kawaisprite",
+                "image": "twitter"
+            },
+            {
+                "url": "https://soundcloud.com/altijd-yogesh",
+                "image": "soundcloud"
+            },
+            {
+                "url": "https://www.youtube.com/c/KawaiSprite",
+                "image": "youtube"
+            },
+            {
+                "url": "https://kawaisprite.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "phantomarcade",
+        "bgColor": "0xFF8F3331",
+        "backdropColor": "0xFF71FD80",
+        "name": "PhantomArcade",
+        "role": "Original Director, Friday Night Funkin' (Base game) Developer",
+        "description": "Animador principal y director de Friday Night Funkin' (juego base).",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/phantomarcade3k",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.twitch.tv/phantom_arcade",
+                "image": "twitch"
+            },
+            {
+                "url": "https://phantomarcade.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "evilsk8r",
+        "bgColor": "0xFF040706",
+        "backdropColor": "0xFFB00233",
+        "name": "EvilSk8r",
+        "role": "Friday Night Funkin' (Base game) Developer",
+        "description": "Artista conceptual para Friday Night Funkin' (juego base).",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/evilsk8r",
+                "image": "twitter"
+            },
+            {
+                "url": "https://evilsk8r.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "ninjamuffin",
+        "bgColor": "0xFFFC3959",
+        "backdropColor": "0xFFFFFFFF",
+        "name": "NinjaMuffin",
+        "role": "Friday Night Funkin' (Base game) Developer",
+        "description": "Programador de Friday Night Funkin' (juego base).",
+        "iconBG": "0xFF000000",
+        "links": [
+            {
+                "url": "https://x.com/ninja_muffin99",
+                "image": "twitter"
+            },
+            {
+                "url": "https://www.twitch.tv/ninja_muffin99",
+                "image": "twitch"
+            },
+            {
+                "url": "https://github.com/ninjamuffin99",
+                "image": "github"
+            },
+            {
+                "url": "https://ninjamuffin99.newgrounds.com/",
+                "image": "newgrounds"
+            }
+        ],
+        "scaleBig": 0.9
+    },
+    {
+        "fileName": "lock",
+        "bgColor": "0xFF26372D",
+        "backdropColor": "0xFF30B544",
+        "name": "konec",
+        "role": "Patroner",
+        "description": "Apoyo a Retrospecter a traves de Patreon.",
+        "iconBG": "0xFF30B544"
+    }
+]
